@@ -1,0 +1,9 @@
+apple
+blue
+hello
+it
+lemon
+red
+testing
+works
+yay

@@ -1,0 +1,11 @@
+orange
+orange tomato 
+orange apple
+orange lettuce
+tomato peach 
+tomato Vege1 
+Vege1 Vege2 
+Vege1 Vege3
+Vege3 Fruit1
+Fruit1 Vege4
+Vege4 Hanif
