@@ -7,6 +7,7 @@
 -Conditionals
 -Loops
 -Functions
+
 -Vectors
 -Text Files
 -The Standard Template Library
